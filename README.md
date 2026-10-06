@@ -9,14 +9,7 @@ Deep Reinforcement Learning for dynamic urban mobility, built with Python, Tenso
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Running the Simulation](#running-the-simulation)
-- [Development Workflow](#development-workflow)
-- [Testing & Quality](#testing--quality)
-- [AI Model Integration](#ai-model-integration)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Team & Acknowledgments](#team--acknowledgments)
+  - [Project Structure](#project-structure)
 
 ## Vision & Goals
 Urban traffic congestion remains a persistent challenge, causing excessive vehicle wait times, fuel wastage, and environmental pollution. Traditional fixed-timer signals are rigid and blind to real-world, stochastic traffic patterns. This project replaces these outdated systems with an intelligent, autonomous controller that adapts in real-time. 
